@@ -1,5 +1,5 @@
 //get a age and convert in to a Number;
-var age = Number(prompt("What is your age, buddy?"));
+let age = Number(prompt("What is your age, buddy?"));
 
 //if age is too small
 if(age < 18) {
